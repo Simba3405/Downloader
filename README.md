@@ -50,7 +50,7 @@ Data Persistence Layer (SQLite)
 │
 └── Session Logs / Operation Audits / History Replay / Error Analysis
 
-text
+
 
 ## III. Core Technical Innovations
 
