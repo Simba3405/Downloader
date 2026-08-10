@@ -1,0 +1,3 @@
+https://api.iamhc.cn/v1/chat/completions
+sk-ZEXD2e6QmckjYV3iaA8NWfRt7Sv6PmRWdVuTbQfQ7W7yiovz
+http://localhost:8080
