@@ -58,7 +58,7 @@ Data Persistence Layer (SQLite)
 
 **Technical Principle:** Constrain the AI's free-text output into structured tags, achieving a separation of "thinking" and "acting."
 
-```xml
+
 <thinking>Analyzing current state...</thinking>
 <cmd>winget install Scratch</cmd>
 Advantages:
