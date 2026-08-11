@@ -2,7 +2,7 @@
 This is an AI agent self-downloading project(I create it for an competition) It may have some problem(If your program cannot run,please email us at Simba3408@77.ink)If you like this program please give me a star  
 
 Creater:
-This project is created by Simba3405 from Chengdu No.7 YuCai high school,China
+This project is created by bSimba3405 from Chengdu No.7 YuCai high school,China
 You can sreach me as "Geek236" on BiliBili
 
 Thanks for e.. only myself
@@ -226,7 +226,7 @@ We envision Downloader changing everyone's life in the future.
 
 If this project has helped you, please consider buying us a coffee at Squarcal.com.
 
-If you are interested in acquiring the project team and all intellectual property rights of the entire project, please send an email to bSimba3405@outlook.com.
+If you are interested in acquiring the project team and all intellectual property rights of the entire project, please send an email to bSimba3408@77.ink.
 
 For more information, please visit www.Squarcal.com.
 （HAHA，you have been tricked,We do not have a website,or why I have to upload it to GITHUB.I'm only a 13-year-old teenager,I do not have such that money）
